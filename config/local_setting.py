@@ -8,9 +8,9 @@ DRIVER = 'pymysql'  # 数据库驱动
 
 USERNAME = 'root'  # 用户名
 
-PASSWORD = 'Lqz579579'  # 密码
+PASSWORD = 'root'  # 密码
 
-HOST = '123.56.9.21'  # 服务器
+HOST = ''  # 服务器
 
 PORT = 3306  # 端口
 
